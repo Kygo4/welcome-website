@@ -1,4 +1,5 @@
-# welcome-website
+##welcome-website
+查看作品请点击链接：[https://kygo4.github.io/website/public/index.html](https://kygo4.github.io/website/public/index.html)
 
 ## 项目名称
 吉林大学计算机学院志愿者协会招新系统v1.0
