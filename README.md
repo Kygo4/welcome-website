@@ -19,5 +19,5 @@
 1. 运行前请自行安装MongoDB数据库：[http://www.mongodb.org/downloads/](http://www.mongodb.org/downloads/)然后启动该数据库。
 2. 项目中已集成node_modules依赖文件，无需再进行npm install操作。
 3. 请在文件目录下执行npm bin/www命令启动项目。
-4. 打开浏览器访问[http://127.0.0.1:7101//](http://127.0.0.1:7101/)
+4. 打开浏览器访问[http://127.0.0.1:7101/](http://127.0.0.1:7101/)
 
